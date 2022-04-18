@@ -1,3 +1,6 @@
+"""
+A simple converter for length, square and temperature units.
+"""
 # input of data
 print(
     "What do you like to convert?\nType \"l\" for length(metric system), \"s\" for square(metric system), "
